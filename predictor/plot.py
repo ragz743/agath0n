@@ -23,8 +23,12 @@ if __name__ == "__main__":
         axis[row, col].set_ylim([0, 700])
         axis[row, col].plot(data["date"], data["swe_prediction"])
         axis[row, col].set_title(loc_name)
+        axis[row, col].set_ylabel("Snow water equivalent (mm)")
         axis[row, col].xaxis.set_major_locator(mdates.YearLocator())
         axis[row, col].xaxis.set_major_formatter(mdates.DateFormatter("%Y"))
         plt.setp(axis[row, col].xaxis.get_majorticklabels(), rotation=45, ha="right")
 
+    plt.suptitle(
+        "Figure 1. SWE curve for SNOTEL stations for the water years 2017-2019"
+    )
     plt.show()
