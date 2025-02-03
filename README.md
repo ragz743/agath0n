@@ -1,4 +1,4 @@
-# [AgAID Digital AgATH0N 2025](https://agaid.org/digital-agath0n-2025)
+# [🌱 AgAID Digital AgATH0N 2025](https://agaid.org/digital-agath0n-2025)
 
 > Predicting snow water equivalent (SWE) using spatiotemporal data.
 
