@@ -1,6 +1,8 @@
-# [🌱 AgAID Digital AgATH0N 2025](https://agaid.org/digital-agath0n-2025)
+# SAI (Snowpack Artificial Intelligence)
 
 > Predicting snow water equivalent (SWE) using spatiotemporal data.
+
+Winner of the [🌱 2025 AgAID Digital AgATH0N 2025](https://agaid.org/digital-agath0n-2025)!
 
 ## Sections
 
