@@ -18,6 +18,14 @@ Winner of the [2025 AgAID Digital AgATH0N 2025](https://agaid.org/digital-agath0
 - Scikit-learn
 - Matplotlib
 
+## Team Members: The X-Men
+- Darron Li
+- Sairaghav Gubba
+- Charles Liu
+- Neal Wang
+- Marcos Zapien
+- Collin Bale
+
 ## Works Cited
 
 Thanks to AgAID for providing the data and WSU for the workshop!
